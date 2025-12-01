@@ -25,12 +25,19 @@ JSON
 
 📁 Estructura del proyecto
 Ejercicio Práctico - Desarrollo Portafolio Módulo 2
+
 assets/js
-- detalle.js
-- index.js
+
+ detalle.js
+ 
+ index.js
+ 
 acercade.html
+
 detalle.html
+
 index.html
+
 README.md
 
 
@@ -43,4 +50,4 @@ Descargar el repositorio
 Abre la carpeta con cualquier editor (VSCode recomendado)
 Abre index.html en tu navegador
 
-Francisco — Proyecto de práctica Frontend.
+Francisco - Proyecto de práctica Frontend.
