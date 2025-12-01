@@ -24,12 +24,15 @@ JavaScript
 JSON
 
 📁 Estructura del proyecto
-/clima-app
-│── index.html
-│── detalle.html
-│── acerca_de.html
-│── script.js
-│── detalle.js
+Ejercicio Práctico - Desarrollo Portafolio Módulo 2
+assets/js
+- detalle.js
+- index.js
+acercade.html
+detalle.html
+index.html
+README.md
+
 
 Enlace
 https://github.com/abomdevp/weather-frontend-m2
