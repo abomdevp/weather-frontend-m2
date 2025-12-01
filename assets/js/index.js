@@ -1,3 +1,4 @@
+// Lista de localidades
 const localidades = [
 { id: 1, nombre: "Santiago", temp: 26, estado: "Soleado", icono: "☀️" },
 { id: 2, nombre: "Valparaíso", temp: 20, estado: "Nublado", icono: "☁️" },
@@ -13,6 +14,7 @@ const localidades = [
 
 const cardContainer = document.getElementById("cardContainer");
 
+// Función que genera las cards en el inicio
 localidades.forEach(loc => {
 const col = document.createElement("div");
 col.className = "col-12 col-sm-6 col-md-4 col-lg-3 mb-4";

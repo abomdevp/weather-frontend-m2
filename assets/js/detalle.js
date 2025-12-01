@@ -1,3 +1,4 @@
+// Lista de localidades
 const localidades = [
   { id: 1, nombre: "Santiago", temp: 26, estado: "Soleado", icono: "☀️", humedad: 40, viento: 10 },
   { id: 2, nombre: "Valparaíso", temp: 20, estado: "Nublado", icono: "☁️", humedad: 60, viento: 15 },
@@ -21,6 +22,7 @@ const pronosticoMock = [
   { dia: "Dom", icono: "☁️", temp: 21 }
 ];
 
+// Lee el ID de la URL para saber qué ciudad mostrar
 const params = new URLSearchParams(window.location.search);
 const id = parseInt(params.get("id"));
 
